@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Hao</h1>
 
-### Personally: 
+### About me: 
 - 🔭 I’m an undergrad at Denison Uni, majoring in Economics 📈 and Data Analytics 💻 with a minor in Mathematics.
 - ✨ I'm interested in applying statistical methods in figuring out social questions (hence the majors and minor ⬆️)
 - 🎯 I constantly follows the news and love to learn new things. 
